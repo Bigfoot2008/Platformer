@@ -6,10 +6,16 @@ background-color: gray;
 .homepagetitle {
 
 text-align: center;
+font-style: italic;
+
 
 }
 
-.Starterbutton {
+h1 {
+ font-size: 100px;
 
-    text-align: center;
-}
+
+
+
+
+
