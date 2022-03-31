@@ -19,3 +19,17 @@ h1 {
 image-orientation: flip;
 
 }
+
+.Homepage_Level {
+position: absolute;
+top:30% ;
+bottom: 10% ;
+right: 3%;
+
+}
+
+
+.Info_button {
+    position: absolute;
+    top: 45%;
+}
