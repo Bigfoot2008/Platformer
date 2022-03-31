@@ -20,16 +20,33 @@ image-orientation: flip;
 
 }
 
-.Homepage_Level {
+.Level1_button {
 position: absolute;
-top:30% ;
+top:35% ;
 bottom: 10% ;
 right: 3%;
 
 }
 
+.Level2_button {
+    position: absolute;
+    top:45% ;
+    bottom: 10% ;
+    right: 3%;
+    
+    }
+
+.Level3_button {
+        position: absolute;
+        top:55% ;
+        bottom: 10% ;
+        right: 3%;
+        
+        }
+
 
 .Info_button {
     position: absolute;
     top: 45%;
+    right: 90%;
 }
