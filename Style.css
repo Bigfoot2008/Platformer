@@ -12,7 +12,18 @@ font-style: italic;
 }
 
 h1 {
- font-size: 100px;
+ font-size: 45px;
+ font-family: "Copperlate", monospace;
+}
+
+h3 {
+    font-size: 27px;
+    font-family: "Times New Roman", Times, serif;
+      
+}
+
+.Info {
+    background-color: rgb(41, 41, 150);
 }
 
 .background {
@@ -55,7 +66,7 @@ right: 3%;
     right: 90%;
 }
 
-.Level_1_boy {
+.Adventurer {
 position: absolute;
 z-index: 20;
 }
