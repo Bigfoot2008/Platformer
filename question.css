@@ -1,0 +1,14 @@
+body{
+  min-height: 100vh;
+  animation: appear 1s forwards;
+}
+@keyframes appear {
+  0%{
+    background-color: black;
+    transform: scale(0);
+  }
+  100%{
+    transform: scale(1);
+    background-color:  wihte;
+  }
+}
