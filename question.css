@@ -9,6 +9,22 @@ body{
   }
   100%{
     transform: scale(1);
-    background-color:  wihte;
+    background-color:  white;
   }
+  
+
+  }
+
+
+@keyframes disappear {
+0%{
+background-color: white;
+transform: scale(1);
+}
+100%{
+  transform: scale(0);
+  background-color: black;
+
+}
+
 }
