@@ -6,13 +6,6 @@ body{
 
   .Question1background {
 
-position: absolute;
+image-rendering: auto 
 
-  }
-
-  .Question1 {
-text-align: unset;
-bottom: 50px;
-content: icon;
-
-  }
+}
