@@ -30,7 +30,7 @@ body{
 }
 
 .reach-level-2{
-  animation: boyLevel2 2s  linear forwards;
+  animation: boyLevel2 3s  linear forwards;
 }
 @keyframes boyLevel2 {
   0%{
@@ -49,12 +49,13 @@ body{
     bottom: 45%;
     right: 33%;
   }
-  55%{
-    bottom: ;
+  75%{
+    bottom: 50%;
+    left: 47%;
   }
   100%{
-    bottom: 43%;
-    left: 45%;
+    bottom: 50%;
+    left: 70%;
   }
   
   
