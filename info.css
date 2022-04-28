@@ -1,1 +1,32 @@
 
+.infoimage {
+    min-height: 100vh;
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+    min-height: 100vh;
+    }
+    
+    .infotext{
+        background-size: 100%;
+        color: white;
+        background-color: rgba(107, 142, 255, .5);
+        position: absolute;
+        z-index: 90;
+        margin-top: 70px;
+        
+      }
+    h1 {
+        font-size: 45px;
+        font-family: "Copperlate", monospace;
+    }
+
+    h3 {
+        font-size: 27px;
+        font-family: "Times New Roman", Times, serif;
+          
+    }
+   
+    div {
+  box-shadow: 100% 100% lightblue;
+}

@@ -68,21 +68,3 @@ position: absolute;
 z-index: 20;
 }
 
-
-
-.infoimage {
-    min-height: 100vh;
-    max-width: 100%;
-    height: auto;
-    position: absolute;
-    min-height: 100vh;
-    }
-    
-    .infotext{
-        background-size: 100%;
-        
-        position: absolute;
-        z-index: 90;
-      }
-    
-
