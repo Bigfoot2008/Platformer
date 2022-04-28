@@ -8,8 +8,8 @@ body{
     position:absolute;
     width: 100px;
     height: auto;
-    bottom: 0%;
-    left: 54%;
+    top: 18%;
+    left: 45%;
     transform: scaleX(-1);
   }
   
@@ -17,23 +17,23 @@ body{
     position: absolute;
   }
   .btn-level-1{
-    top: 69%;
-    left: 76%;
+    top: 63%;
+    left: 17%;
   }
   .btn-level-2{
-    top: 61%;
-    left: 65%;
+    top: 67%;
+    left: 51%;
   }
   .btn-level-3{
-    top: 67%;
-    left: 23%;
+    top: 56%;
+    left: 82%;
   }
   
   .btn-level-4{
-    top: 37%;
-    left: 42%;
+    top: 30%;
+    left: 74%;
   }  
   .btn-level-5{
-    top: 37%;
-    left: 42%;
+    top: 9%;
+    left: 11%;
   }  
