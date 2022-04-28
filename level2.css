@@ -49,4 +49,19 @@ body{
     bottom: 60%;
     left: 34%;
   }
-}
+  55%{
+    bottom: 66%;
+    left: 34%;
+  }
+  60%{
+    bottom: 70%;
+    left: 35%;
+  }
+  70%{
+    bottom: 80%;
+    left: 60%;}
+  80%{
+    bottom: 90%;
+    left: 65%;
+  }
+  }
