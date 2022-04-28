@@ -1,0 +1,39 @@
+body{
+    background-image: url('Level 3 background.jpg');
+    background-size: 100% 100%;
+    min-height: 100vh;
+  }
+
+  .boy{
+    position:absolute;
+    width: 100px;
+    height: auto;
+    bottom: 0%;
+    left: 54%;
+    transform: scaleX(-1);
+  }
+  
+  .btn-level{
+    position: absolute;
+  }
+  .btn-level-1{
+    top: 69%;
+    left: 76%;
+  }
+  .btn-level-2{
+    top: 61%;
+    left: 65%;
+  }
+  .btn-level-3{
+    top: 67%;
+    left: 23%;
+  }
+  
+  .btn-level-4{
+    top: 37%;
+    left: 42%;
+  }  
+  .btn-level-5{
+    top: 37%;
+    left: 42%;
+  }  
