@@ -4,3 +4,19 @@ h1{
    h3{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
    }
+.question1{
+    background-size: 100%;
+    color: white;
+    background-color: rgba( 255, 198, 13, .5);
+    position: absolute;
+    z-index: 90;
+    margin-top: 45px;
+}
+.backgroundimage{
+    min-height: 100vh;
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+    min-height: 100vh;
+    }
+
