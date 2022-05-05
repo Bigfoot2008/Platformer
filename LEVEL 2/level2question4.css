@@ -4,3 +4,13 @@ h1{
    h3{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
    }
+.bg-mountain{
+    background-image: url(MOUNTAINPEAK.png);
+    min-height: 100vh;
+    max-width: 100%;
+    height: auto;
+    background-size: cover;
+}
+.question4{
+    background-color: rgba(14, 116, 232, .5);
+}

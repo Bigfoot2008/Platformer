@@ -4,3 +4,16 @@ h1{
    h3{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
    }
+
+.bg-forest{
+    background-image: url(forest.jpg);
+    min-height: 100vh;
+    max-width: 100%;
+    height: auto;
+    background-size: cover;
+    
+}
+.question3{
+    background-color: rgba(70, 190, 250, .5);
+    margin-top: 75px;
+}
