@@ -1,4 +1,70 @@
 body{
-background-image: url('Level 1 background.png');
+    background-image: url('Level 1 background.png');
+    background-size: 100% 100%;
+    min-height: 100vh;
+  }
+  
+  .boy{
+    position:absolute;
+    width: 100px;
+    height: auto;
+    bottom: 30%;
+    left: 50%;  
+    transform: scaleX(-1);
+  }
+  
+  .btn-level{
+    position: absolute;
+  }
+  .btn-level-1{   
+    top: 20%;
+    left: 20%;
+  }
+  .btn-level-2{
+    top: 60%;
+    left: 40%;
+  }
+  .btn-level-3{
+    top: 30%;
+    left: 78%;  
+  }
+  
+  .reach-level-3{
+    animation: boyLevel3 2s  linear forwards;
+  }
+  @keyframes boyLevel3 {
+    0%{
+        bottom: 30%;
+        left: 50%;  
+    }
+    5%{
+        bottom: 40%;
+        left: 55%;
+    }
+    10%{
+        bottom: 43%;
+        left: 58%;
+    }
+    50%{
+        bottom: 60%;
+        left: 50%;
+    }
+    70%{
+        bottom: 59%;
+        left: 60%;
+    }
+   
+    
+    85%{
+        bottom: 57%;
+        left: 65%;
+    }
+    100%{
+        bottom: 55%;
+        left: 70%;
+    }
 
+  
 }
+
+  
