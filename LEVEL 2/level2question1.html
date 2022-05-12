@@ -18,6 +18,19 @@
     
       
     </div>
+    <script>
+        const boy = document.querySelector('.boy')
+        const level1 = document.querySelector('.btn-level-1')
+        const level2 = document.querySelector('.btn-level-2')
+        level1.onclick = () => {
+            boy.classList.add('reach-level-1')
+            setTimeout(() => {
+                location.href = "level2question1.html"
+            }, 2000)
+           
+        }
+
+    </script>
     
 </body>
 </html>
